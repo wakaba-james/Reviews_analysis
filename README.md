@@ -1,43 +1,31 @@
-Social Media Product Reviews Analysis
+# Social Media Product Reviews Analysis
 
-This project performs sentiment analysis on social media product reviews using NLTK and the VADER lexicon. It helps in understanding customer opinions, detecting trends, and evaluating product feedback.
+This project performs **sentiment analysis** on **social media product reviews** using **NLTK** and the **VADER lexicon**. It helps in understanding customer opinions, detecting trends, and evaluating product feedback.
 
-Features
+## Features
 
-Analyze product reviews and classify sentiment as positive, negative, or neutral
+- Analyze product reviews and classify sentiment as **positive, negative, or neutral**
+- Visualize sentiment distributions using charts and graphs
+- Gain insights from social media feedback for products and brands
 
-Visualize sentiment distributions using charts and graphs
+## Installation
 
-Gain insights from social media feedback for products and brands
+1. Clone the repository:  
+```bash
+https://github.com/wakaba-james/Reviews_analysis.git
 
-Installation
+## Navigate to the project folder:
 
-Clone the repository:
+2. cd Reviews_analysis
 
-git clone https://github.com/yourusername/Reviews_analysis.git
-
-
-Navigate to the project folder:
-
-cd Reviews_analysis
-
-
-Install required packages:
+**## Install required packages:**
 
 pip install -r requirements.txt
 
-Usage
+**Usage**
 
-Prepare a dataset of product reviews in CSV or JSON format.
-
-Run the analysis script:
-
+- Prepare a dataset of product reviews in CSV or JSON format.
+- Run the analysis script:
 python analyze_reviews.py
 
-
-Check the output and visualizations for sentiment trends.
-
-Contact
-
-If you are interested in the data or want to collaborate, you can reach me at:
-jameskinyanjui721@gmail.com
+- Check the output and visualizations for sentiment trends.

@@ -21,7 +21,7 @@ https://github.com/wakaba-james/Reviews_analysis.git
 
 pip install -r requirements.txt
 
-**Usage**
+## Usage
 
 - Prepare a dataset of product reviews in CSV or JSON format.
 - Run the analysis script:

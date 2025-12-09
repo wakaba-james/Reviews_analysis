@@ -5,8 +5,7 @@ This project performs **sentiment analysis** on **social media product reviews**
 ## Features
 
 - Analyze product reviews and classify sentiment as **positive, negative, or neutral**
-- Visualize sentiment distributions using charts and graphs
-- Gain insights from social media feedback for products and brands
+
 
 ## Installation
 
